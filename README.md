@@ -1,0 +1,2 @@
+# summarizer
+Large document summarization
